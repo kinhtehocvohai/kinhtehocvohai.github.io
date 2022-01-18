@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed; //to fix the masthead https://krisshen.com/project_website/how-to-make-header-sticky/ and https://github.com/mmistakes/minimal-mistakes/issues/490
-  top: 0;
+  top: -0.5;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
