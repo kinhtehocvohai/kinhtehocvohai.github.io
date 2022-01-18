@@ -1,0 +1,140 @@
+
+
+#blogpost to be updated
+#blogpost:
+ #- title: "Blog Posts"
+     #url: /blogpost/
+
+
+#series nav
+series:
+ - title: "Suy luận Nhân quả với Python"
+   url: /pythoncausal/
+ - title: "60 Giây Nhân quả"
+   url: /causalgraph/
+ - title: "Suy luận Nhân quả cho Học máy"
+   url: /aicausal/
+
+#python causal link
+pythoncausal:
+ - title: "Suy luận Nhân quả với Python"
+   url: /pythoncausal/
+   children:
+      - title: "1. Giới thiệu Suy luận Nhân quả"
+        url: /pythoncausal/pc01
+      - title: "2. Phép thử Ngẫu nhiên"
+        url: /pythoncausal/pc02
+      - title: "3. Một Phương trình Vô cùng Nguy hiểm"
+        url: /pythoncausal/pc03
+      - title: "4. Mô hình Biểu đồ Nhân quả"
+        url: /pythoncausal/pc04
+      - title: "5. Hiệu quả Khó tin của Hồi quy tuyến tính"
+        url: /pythoncausal/pc05
+      - title: "6. Nhóm gộp và Hồi quy Biến giả"
+        url: /pythoncausal/pc06
+      - title: "7. Đâu chỉ mình Biến nhiễu?"
+        url: /pythoncausal/pc07
+      - title: "8. Biến Công cụ"
+        url: /pythoncausal/pc08
+      - title: "9. Sự bất tuân và LATE"
+        url: /pythoncausal/pc09
+      - title: "10. Phương pháp Ghép cặp"
+        url: /pythoncausal/pc10
+      - title: "11. Điểm xu hướng"
+        url: /pythoncausal/pc11
+      - title: "12. Ước lượng mạnh Hai lần"
+        url: /pythoncausal/pc12
+      - title: "13. Dữ liệu Bảng và Hiệu ứng Cố định"
+        url: /pythoncausal/pc13
+      - title: "14. Sai khác của Biến thiên"
+        url: /pythoncausal/pc14
+      - title: "15. Đối chứng Tổng hợp"
+        url: /pythoncausal/pc15
+      - title: "16. Thiết kế Hồi quy Gián đoạn"
+        url: /pythoncausal/pc16
+ - title: "60 Giây Nhân quả"
+   url: /causalgraph/
+ - title: "Suy luận Nhân quả cho Học Máy"
+   url: /aicausal/
+
+#causal graph link
+causalgraph:
+ - title: "Suy luận Nhân quả với Python"
+   url: /pythoncausal/
+ - title: "60 Giây Nhân quả"
+   url: /causalgraph/
+   children:
+      - title: "1. Biến Kiểm Soát"
+        url: /causalgraph/ac01
+      - title: "2. Phương Pháp Ghép Cặp"
+        url: /causalgraph/ac02
+      - title: "3. Biến Công Cụ"
+        url: /causalgraph/ac03
+      - title: "4. Hiệu Ứng Cố Định"
+        url: /causalgraph/ac04
+      - title: "5. Sai Khác Của Biến Thiên"
+        url: /causalgraph/ac05
+      - title: "6. Thiết Kế Hồi Quy Gián Đoạn"
+        url: /causalgraph/ac06
+      - title: "7. Biến Đích Chung"
+        url: /causalgraph/ac07
+      - title: "8. Kiểm Soát Sau Can Thiệp"
+        url: /causalgraph/ac08
+ - title: "Suy luận Nhân quả cho Học Máy"
+   url: /aicausal/
+   
+#ai causal link
+aicausal:
+ - title: "Suy luận Nhân quả với Python"
+   url: /pythoncausal/
+ - title: "60 Giây Nhân quả"
+   url: /causalgraph/
+ - title: "Suy luận Nhân quả cho Học Máy"
+   url: /aicausal/
+   children:
+      - title: "1. Giới thiệu Suy luận Nhân quả cho Học máy"
+        url: /aicausal/intro
+      - title: "2. Tại sao chúng ta lại quan tâm tới quan hệ nhân quả?"
+        url: /aicausal/ac02
+      - title: "3. Quan hệ Nhân quả mang lại lợi ích gì?"
+        url: /aicausal/ac03
+      - title: "4. Từ Tương Quan Tới Nhân Quả - Phần 1"
+        url: /aicausal/ac04
+      - title: "5. Từ Tương Quan Tới Nhân Quả - Phần 2"
+        url: /aicausal/ac05
+      - title: "6. Từ Dự Báo Tới Can Thiệp - Phần 1"
+        url: /aicausal/ac06
+      - title: "7. Từ Dự Báo Tới Can Thiệp - Phần 2"
+        url: /aicausal/ac07
+      - title: "8. Nên sử dụng loại biểu đồ nào?"
+        url: /aicausal/ac08
+      - title: "9. Lời nói dối vĩ đại của học máy"
+        url: /aicausal/ac09
+      - title: "10. Bất biến"
+        url: /aicausal/ac10
+      - title: "11. Dự đoán Nhân quả Bất biến"
+        url: /aicausal/ac11
+      - title: "12. Giảm thiểu Rủi ro Bất biến"
+        url: /aicausal/ac12
+      - title: "13. Phương pháp Giảm thiểu Rủi ro Bất biến Hoạt động như thế nào?"
+        url: /aicausal/ac13
+      - title: "14. Bản mẫu đầu tiên - Phần 1"
+        url: /aicausal/ac14
+        
+        
+# main links
+main:
+  #- title: "Quick-Start Guide"
+    #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "About"
+     url: /about/
+   - title: "Blog Posts"
+     url: /blogpost/
+   - title: "Series"
+     url: /series/
+   #- title: "All Posts"
+     #url: /year-archive/
+   #- title: "Collections"
+   #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

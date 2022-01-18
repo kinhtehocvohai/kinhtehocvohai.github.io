@@ -1,0 +1,35 @@
+vn:
+  name        : "Viet Nguyen-Tien"
+  bio         : "Research Economist at the Centre for Econmic Performance (CEP), London School of Economics and Political Science (LSE)"
+  avatar      : "/assets/images/authors/profile_vn.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vietnt.econ@gmail.com"
+    - label: "Website"
+      icon: "fas fa-globe-americas"
+      url: "https://vietecon.github.io/me/"
+      
+dt:
+  name        : "Trang Dinh"
+  bio         : "PhD student at the University of Manchester"
+  avatar      : "/assets/images/authors/profile_td.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dinhtrang24@gmail.com"
+    - label: "Website"
+      icon: "fas fa-globe-americas"
+      url: "https://dinhtrang24.github.io/"
+      
+qa:
+  name        : "Anh Pham"
+  bio         : "PhD student in Economics at the University of Birmingham"
+  avatar      : "/assets/images/authors/profile_ap.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:andrew.pham502@gmail.com"
+    - label: "Website"
+      icon: "fas fa-globe-americas"
+      url: "https://anhpham52.github.io/me/"
