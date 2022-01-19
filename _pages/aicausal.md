@@ -3,8 +3,6 @@ title: Suy Luận Nhân Quả Cho Học Máy
 share: true
 sidebar:
     nav: series
-header:
-  image: /assets/images/media/aicausalcover.jpg
 layout: collection
 excerpt: "Loạt bài viết cung cấp những kiến thức nền tảng cơ bản về suy luận nhân quả trong bối cảnh của khoa học dữ liệu và học máy"
 permalink: /aicausal/
