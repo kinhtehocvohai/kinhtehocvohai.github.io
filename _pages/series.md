@@ -3,8 +3,6 @@ layouts: single
 title: Series
 share: false
 comments: false
-header:
-  image: /assets/images/media/seriescover.jpg
 permalink: /series/
 excerpt: "Mục tổng hợp những kiến thức đã được Việt hoá từ các tài liệu nước ngoài"
 ---
