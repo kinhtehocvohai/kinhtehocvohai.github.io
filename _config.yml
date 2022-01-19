@@ -297,7 +297,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true
@@ -309,7 +309,7 @@ defaults:
       layout: single
       share: true
       comments: true
-      author_profile: true
+      author_profile: false
       #toc: true
       #toc_label: "Mục lục"
       #toc_icon: "ML"  
@@ -324,7 +324,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true
@@ -340,7 +340,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true
@@ -355,7 +355,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true
@@ -370,7 +370,7 @@ defaults:
       share: true
       related: true
       show_date: true
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true     
