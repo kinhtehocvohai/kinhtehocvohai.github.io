@@ -3,8 +3,6 @@ title: 60 Giây Nhân Quả
 share: true
 sidebar:
     nav: series
-header:
-  image: /assets/images/media/causalgraphcover.jpg
 layout: collection
 excerpt: "Loạt bài viết sử dụng hình ảnh động để diễn tả các phương pháp căn bản trong kinh tế lượng."
 permalink: /causalgraph/
