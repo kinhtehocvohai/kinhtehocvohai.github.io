@@ -5,7 +5,7 @@
 .masthead {
   position: fixed; //to fix the masthead https://krisshen.com/project_website/how-to-make-header-sticky/ and https://github.com/mmistakes/minimal-mistakes/issues/490
   top: 0;
-  border-bottom: 1.5px solid $border-color ; 
+  border-bottom: 0.5px solid $border-color ; 
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -13,7 +13,7 @@
   z-index: 20;
   width: 100%; // set width
   background: $background-color;  // set a color to hide content that may appear below masthead
-  height: 85px; ; //<-- set header's height $masthead-height
+  height: 75px; ; //<-- set header's height $masthead-height
 
   &__inner-wrap {
     @include clearfix;
