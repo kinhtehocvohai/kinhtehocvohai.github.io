@@ -93,14 +93,14 @@ plt.show()
 Để hiểu hơn vấn đề đơn giản này, hãy cùng bắt đầu với việc thiết lập một số kí hiệu. Đây là ngôn ngữ chung để nói về 
  quan hệ nhân quả. Gọi \\(T_i\\) là lượng can thiệp đối với cá nhân i. 
 
-$$
+$
 T_i=\begin{cases}
 1 \ \text{nếu cá thể i tiếp nhận can thiệp}\\
 0 \ \text{nếu ngược lại}\\
 \end{cases}
-$$
+$
 
-Can thiệp  ở đây không nhất thiết là điều trị y tế hoặc bất cứ thứ gì liên quan đến lĩnh vực y tế. Thay vào đó, nó chỉ là một thuật ngữ chúng ta dùng để nói về một biện pháp/hành động/chương trình/sáng kiến mà chúng ta muốn tìm hiểu tính hiệu quả của nó. Trong trường hợp này, can thiệp là việc phát máy tính bảng cho học sinh.
+Can thiệp ở đây không nhất thiết là điều trị y tế hoặc bất cứ thứ gì liên quan đến lĩnh vực y tế. Thay vào đó, nó chỉ là một thuật ngữ chúng ta dùng để nói về một biện pháp/hành động/chương trình/sáng kiến mà chúng ta muốn tìm hiểu tính hiệu quả của nó. Trong trường hợp này, can thiệp là việc phát máy tính bảng cho học sinh.
 
 Gọi biến \\(Y_i\\) là kết quả quan sát cho cá thể i.
 
