@@ -11,3 +11,5 @@ Cheat sheet
 https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#kramdown
 
 https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/
+
+https://www.janmeppe.com/blog/How-to-add-mathjax-to-minimal-mistakes/
