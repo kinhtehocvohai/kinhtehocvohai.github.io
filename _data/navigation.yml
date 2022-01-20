@@ -118,8 +118,10 @@ aicausal:
         url: /aicausal/ac12
       - title: "13. Phương pháp Giảm thiểu Rủi ro Bất biến Hoạt động như thế nào?"
         url: /aicausal/ac13
-      - title: "14. Bản mẫu đầu tiên - Phần 1"
+      - title: "14. Nguyên mẫu - Phần 1"
         url: /aicausal/ac14
+      - title: "15. Nguyên mẫu - Phần 2"
+        url: /aicausal/ac15
         
         
 # main links
