@@ -6,7 +6,7 @@ toc: false
 categories:
   - blog posts
 tags:
-  - tài chính
+  - công nghệ
 permalink: /blogpost/why-tech-companies-hire-so-many-economists
 ---
 
