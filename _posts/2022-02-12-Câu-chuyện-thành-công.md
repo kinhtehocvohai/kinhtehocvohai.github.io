@@ -7,7 +7,7 @@ categories:
   - blog posts
 tags:
   - tài chính
-permalink: /blogpost/câu-chuyện-thành-công
+permalink: /blogpost/cau-chuyen-thanh-cong
 ---
 
 **Tác giả: George Lifchits, Ashton Anderson, Daniel G. Goldstein, Jake M. Hofman và Duncan J. Watts**
