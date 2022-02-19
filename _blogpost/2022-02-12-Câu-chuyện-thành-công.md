@@ -15,8 +15,6 @@ permalink: /blogpost/cau-chuyen-thanh-cong
 
 Bạn có muốn thành công trong năm mới? Bạn có sẵn sàng thay đổi bản thân trở thành một phiên bản tốt hơn? Bạn có mở lòng học theo những câu chuyện thành công? 
 
-![image-center](/assets/images/blogpost/success.png){: .align-center}
-
 Peters và  Waterman trong cuốn sách “Kiếm tìm sự hoàn hảo” kể cho bạn nghe 8 điểm chung của 15 doanh nghiệp thành công nhất nước Mĩ. “Từ tốt đến vĩ đại” của Collins thuật lại 7 đặc điểm của 11 công ty “vĩ đại”. TechCrunch (2013) tổng kết đặc điểm chung của 39 công ty khởi nghiệp tỉ đô (kỳ lân). Tạp chí New Yorks Times (2018) liệt kê thói quen buổi sáng của 300 người thành công. 
 Liệu chúng ta có thực sự “học” được từ những câu chuyện thành công được sàng lọc kĩ lưỡng?
 Từ góc độ thống kê, khi đọc những câu chuyện này, chúng ta cần lưu ý 2 nguồn “thiên lệch chọn”.
@@ -25,6 +23,8 @@ Thứ nhất, những câu chuyện tập trung kể về thành công thường
 Việc lựa chọn đặc điểm dẫn đến thành công cũng là một điểm đáng lưu ý. Mỗi cá nhân hay công ty sở hữu rất nhiều đặc điểm khác nhau và một câu chuyện giàu cảm xúc thường tập trung vào một hoặc vài đặc điểm. Với mỗi nhóm nhỏ những người thành công, ta dễ dàng tìm một vài đặc điểm giống nhau giữa họ. Hoặc với mỗi đặc điểm chọn sẵn, ta có thể tìm ra một mẫu nhỏ thành công để minh họa cho nó. Điều này nghĩa là đặc điểm phổ biến trong một nhóm người thành công được chọn lọc thậm chí chưa chắc đã là mẫu số chung giữa những người thành công.
 
 Hình vẽ dưới đây mô tả hai nguồn “thiên lệch chọn” này. Hãy tưởng tượng một thế giới chỉ có 2 nhóm người thành công (S) và thất bại (F). Một số người trong đó có cùng một tính cách cụ thể, ví dụ, được “khoanh vuông” và những người còn lại thì không.
+
+![image-center](/assets/images/blogpost/success.png){: .align-center}
 
 Nếu chỉ chăm chăm nhìn một nhóm nhỏ người thành công chọn lọc trong hình này (góc nhỏ nhất), dường như thành công có liên hệ với đặc tính được “khoanh vuông” vì trong 5 người thành công có tới 4 người được khoanh vuông. Nếu mở rộng tầm nhìn vào mẫu gồm toàn người thành công (góc ở giữa), chúng ta có thể thay đổi kết luận vì trong số 17 người thành công, chỉ có 6 người được khoanh vuông. Nếu mở rộng toàn cảnh, ta lại thấy đặc tính khoanh vuông thực ra gắn bó với những người thất bại hơn là những người thành công.
 
