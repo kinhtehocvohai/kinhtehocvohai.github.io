@@ -40,7 +40,9 @@ Liệu bài học cũ từ chiến tranh Việt Nam có còn giá trị? Cùng v
 *Bài viết dựa theo nghiên cứu Dell, Melissa, and Pablo Querubin. “Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies.” Quarterly Journal of Economics 133, no. 2 (2018): 701-764.
 
 [1] Trích trong Daniel Ellsberg, Tư liệu về cuộc chiến tranh, New York, năm 1972, tr.234.
+
 [2] Turse, Nick, Kill Anything that Moves: The Real American War in Vietnam (New York: Macmillan, 2013) 
+
 [3] Milne, David, America’s Rasputin: Walt Rostow and the Vietnam War (New York : Macmillan, 2008).
 
 
