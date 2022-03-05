@@ -10,7 +10,7 @@ tags:
 permalink: /blogpost/vietnam-war
 ---
 
-**Tác giả: Dell, Melissa, và Pablo Querubin**
+**Tác giả: Melissa Dell và Pablo Querubin**
 
 Can thiệp quân sự vào các quốc gia có nền thể chế non trẻ hoặc yếu kém là nét đặc trưng của Chiến tranh Lạnh và đáng tiếc là chúng vẫn còn tiếp diễn cho đến ngày nay. Hành động này không những làm tiêu tốn đáng kể nguồn lực mà còn gây ra những hậu quả nghiêm trọng về an ninh khu vực đối với tất cả các quốc gia có liên quan. 
 
