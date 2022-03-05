@@ -25,7 +25,7 @@ GS Havard Melissa Dell, 1 trong 8 nhà kinh tế học trẻ xuất sắc nhất
 
 Thử nghiệm tự nhiên thứ nhất dựa trên thuật toán đánh bom của Mac Namara. Tướng Mĩ này chủ trương sử dụng dữ liệu và lý thuyết kinh tế học, vận trù học, lý thuyết trò chơi và khoa học tính toán trong quân sự. Từ năm 1967, người Mĩ và chính quyền Sài Gòn thu thập dữ liệu gồm 169 câu hỏi về tình hình an ninh, kinh tế, chính trị. Từ đó, hệ thống máy tính IBM, kết hợp với thuật toán Bayesian ước lượng mức độ nguy hiểm đe dọa chính quyền Sài Gòn và cho điểm các thôn ấp theo thang 5 bậc từ A đến E làm căn cứ quyết định cường độ không kích.
 
-![image-center](/assets/images/blogpost/nationbuilding-1.png){: .align-center}
+![image-center](/assets/images/blogpost/nationbuilding_1.png){: .align-center}
 
 Dell và Querubin đã tận dụng thang điểm này để tiến hành thử nghiệm tự nhiên bằng cách so sánh các ấp ngay trên và ngay dưới ngưỡng quyết định không kích. Ví dụ, hai ấp có mức độ đe dọa đối với chính quyền Sài Gòn xấp xỉ nhau: một ấp có tổng điểm 1.5 và ấp còn lại là 1.49. Tuy nhiên, ấp đầu tiên sẽ được xếp hạng D trong khi ấp thứ hai bị xếp hạng E vì vậy ấp thứ hai sẽ bị thả bom với cường độ mạnh hơn mặc dù chúng có các đặc điểm kinh tế, chính trị, xã hội khá tương đồng. 
 
