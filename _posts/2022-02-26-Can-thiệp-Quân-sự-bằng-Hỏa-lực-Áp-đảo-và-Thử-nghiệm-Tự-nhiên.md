@@ -7,7 +7,7 @@ categories:
   - blog posts
 tags:
   - hồi quy gián đoạn
-permalink: /blogpost/vietnam-war
+permalink: /blogpost/vietnam_war
 ---
 
 **Tác giả: Dell, Melissa, và Pablo Querubin**
