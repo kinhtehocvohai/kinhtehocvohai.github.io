@@ -14,6 +14,8 @@ series:
    url: /causalgraph/
  - title: "Suy luận Nhân quả cho Học máy"
    url: /aicausal/
+ - title: "Coding cho Kinh tế học"
+   url: /codingecon/
 
 #python causal link
 pythoncausal:
@@ -133,6 +135,20 @@ aicausal:
       - title: "20. Phương hướng tương lai - Phần 2"
         url: /aicausal/ac20
         
+codingecon:
+ - title: "Suy luận Nhân quả với Python"
+   url: /pythoncausal/
+ - title: "60 Giây Nhân quả"
+   url: /causalgraph/
+ - title: "Suy luận Nhân quả cho Học Máy"
+   url: /aicausal/
+ - title: "Coding cho Kinh tế học"
+   url: /codingecon/
+   children:
+      - title: "DỮ LIỆU"
+        url: /codingecon/data
+      - title: "Sơ lược về Phân tích Dữ liệu"
+        url: /codingecon/ce01
         
 # main links
 main:
