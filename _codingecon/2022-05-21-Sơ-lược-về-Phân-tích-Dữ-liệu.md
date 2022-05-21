@@ -1422,9 +1422,7 @@ Bao gồm biểu đồ phân tán biểu, diện tích, cột, hộp, mật đ�
 df.plot.scatter("mass", "height", alpha=0.5);
 ```
 
-
-![png](output_35_0.png)
-
+![image-center](/assets/images/codingecon/ce01/output_35_0.png){: .align-center}
 
 
 ```python
@@ -1432,7 +1430,7 @@ df.plot.box("species");
 ```
 
 
-![png](output_36_0.png)
+![image-center](/assets/images/codingecon/ce01/output_36_0.png){: .align-center}
 
 
 
@@ -1442,7 +1440,7 @@ df["height"].plot.kde(bw_method=0.3);
 ```
 
 
-![png](output_37_0.png)
+![image-center](/assets/images/codingecon/ce01/output_37_0.png){: .align-center}
 
 
 # Xuất kết quả và thống kê mô tả
