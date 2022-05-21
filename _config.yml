@@ -281,6 +281,9 @@ collections:
   aicausal:
     output: true
     permalink: /:collection/:path/
+  codingecon:
+    output: true
+    permalink: /:collection/:path/
     
 
 
@@ -374,4 +377,19 @@ defaults:
       toc: true
       toc_label: "Mục lục"
       toc_sticky: true     
+  # _codingecon
+  - scope:
+      path: ""
+      type: codingecon
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      show_date: true
+      author_profile: false
+      toc: true
+      toc_label: "Mục lục"
+      toc_sticky: true
  
