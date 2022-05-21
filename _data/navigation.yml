@@ -146,7 +146,7 @@ codingecon:
    url: /codingecon/
    children:
       - title: "DỮ LIỆU"
-        url: /codingecon/data
+        url: /codingecon/
       - title: "Sơ lược về Phân tích Dữ liệu"
         url: /codingecon/ce01
         
