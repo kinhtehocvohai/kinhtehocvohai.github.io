@@ -22,3 +22,7 @@ Loạt bài viết sử dụng hình ảnh động để diễn tả các phươ
 ## [Suy Luận Nhân Quả Cho Học Máy](http://kinhtehocvohai.com/aicausal/)
 
 Chuỗi bài này sẽ cung cấp những kiến thức nền tảng cơ bản về suy luận nhân quả trong bối cảnh của khoa học dữ liệu và học máy.
+
+## [Python Cho Kinh Tế Học](http://kinhtehocvohai.com/codingecon/)
+
+Chuỗi bài này sẽ cung cấp những kiến thức nền tảng cơ bản về ứng dụng của Python trong việc giải quyết các vấn đề trong Kinh tế học.
