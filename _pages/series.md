@@ -26,4 +26,3 @@ Chuỗi bài này sẽ cung cấp những kiến thức nền tảng cơ bản v
 ## [Python Cho Kinh Tế Học](http://kinhtehocvohai.com/codingecon/)
 
 Chuỗi bài này sẽ cung cấp những kiến thức nền tảng cơ bản về ứng dụng của Python trong việc giải quyết các vấn đề trong Kinh tế học.
-
