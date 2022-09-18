@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: Ghép cặp, Bình quân Gia quyền hay Hồi quy
